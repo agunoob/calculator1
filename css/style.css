@@ -1,0 +1,76 @@
+body {
+    background-color: #AC9F74A3;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div, .wpisz-a, .wpisz-b {
+    float: left;
+    color: #6D6749;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.calculator {
+    height: 240px;
+    width: 230px;
+    margin: 50px auto 0px 200px;
+}
+
+.wpisz-a, .wpisz-b {
+    height: 50px;
+    width: 218px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 5px;
+    background-color: white;
+}
+
+.erase {
+    height: 50px;
+    width: 60px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 0px 5px 5px;
+    background-color: white;
+}
+
+.value {
+    background-color: #AC9F7480 ;
+    height: 50px;
+    width: 150px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 5px;
+}
+
+.sum-op {
+    height: 50px;
+    width: 50px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 1px 5px 5px;  /*o co ci chodzi marginesie */
+    background-color: white;
+}
+
+.sub-op {
+    height: 50px;
+    width: 50px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 1px;
+    background-color: white;
+}
+
+.multi-op {
+    height: 50px;
+    width: 50px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 1px;
+    background-color: white;
+}
+
+.div-op {
+    height: 50px;
+    width: 50px;
+    border: solid #AC9F74FF 1px;
+    margin: 5px 1px;
+    background-color: white;
+}
